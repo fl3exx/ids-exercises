@@ -1,0 +1,10 @@
+.todo {
+  &__list {
+    margin-top: 2rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #f5ecd5;
+    display: flex;
+    flex-flow: column nowrap;
+  }
+}

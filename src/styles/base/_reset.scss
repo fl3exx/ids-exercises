@@ -1,0 +1,13 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #3d3d3d;
+  font-size: 16px;
+  font-family: sans-serif;
+}

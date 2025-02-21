@@ -1,0 +1,14 @@
+.todo {
+  &__container {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 2rem;
+  }
+
+  &__title {
+    text-align: center;
+    color: #fffaec;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+  }
+}
